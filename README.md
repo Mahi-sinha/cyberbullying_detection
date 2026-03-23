@@ -193,8 +193,5 @@ Improve detection of "not_cyberbullying" class
 
 Mahi Sinha
 
-CSE Student
 
-Interested in AI, ML & NLP
 
-Smart India Hackathon Participant
